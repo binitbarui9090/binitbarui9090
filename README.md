@@ -4,6 +4,7 @@ My work blends logic with creativity, exploring the space where technology feels
 This is more than development; it’s experimentation, storytelling, and a constant pursuit of something different.
 </p>
 
+<img src="Untitled design.jpg" />
 
 <div> 
   <a href="https://www.youtube.com/@Justkevin09-g7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
